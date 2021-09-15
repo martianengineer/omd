@@ -17,10 +17,14 @@ def step1():
 
 
 def step2_umbrella():
+    """ This function describes the case with umbrella. """
+
     print('Взяла и ушла. Когда она шла мимо дома - ее сбил грузовик.')
 
 
 def step2_no_umbrella():
+    """ This function describes the case without umbrella. """
+
     text = ('Как только она вышла начался дождь. Она увидела, что к ней '
             'двигается огромный грузовик. Водитель грузовика увидел утку и '
             'остановился. Он вышел из машины и пригласил её на кофе. Утка '
